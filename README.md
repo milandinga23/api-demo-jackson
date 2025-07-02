@@ -1,0 +1,1 @@
+This project showcases API testing in a Spring Boot environment using Jackson for JSON serialization/deserialization. It includes integration-style tests of a simple REST API and demonstrates how to handle JSON payloads in test scenarios.
